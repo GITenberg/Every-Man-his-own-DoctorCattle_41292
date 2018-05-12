@@ -1,0 +1,27 @@
+_repo: Every-Man-his-own-DoctorCattle_41292
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Claridge, R. T.
+    gutenberg_agent_id: '41097'
+    url: http://www.gutenberg.org/2009/agents/41097
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hydrotherapy'
+- !lcsh 'Veterinary medicine'
+- !lcc 'RM'
+title: "Every Man His Own Doctor\r\nThe Cold Water, Tepid Water, and Friction-Cure,\
+  \ as Applicable to Every Disease to Which the Human Frame Is Subject, and Also to\
+  \ the Cure of Disease in Horses and Cattle"
+url: http://www.gutenberg.org/ebooks/41292
